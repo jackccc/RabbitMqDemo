@@ -1,0 +1,7 @@
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\RabbitMqClient\bin\Debug\RabbitMqClient.dll
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\RabbitMqClient\bin\Debug\RabbitMqClient.pdb
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\RabbitMqClient\bin\Debug\RabbitMQ.Client.dll
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\RabbitMqClient\bin\Debug\RabbitMQ.Client.xml
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\RabbitMqClient\obj\Debug\RabbitMqClient.csprojResolveAssemblyReference.cache
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\RabbitMqClient\obj\Debug\RabbitMqClient.dll
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\RabbitMqClient\obj\Debug\RabbitMqClient.pdb

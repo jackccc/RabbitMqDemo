@@ -1,0 +1,17 @@
+C:\VSTFS\Module 2\After\Sample.3.PubSub\Server2\bin\Debug\Server2.exe.config
+C:\VSTFS\Module 2\After\Sample.3.PubSub\Server2\bin\Debug\Server2.exe
+C:\VSTFS\Module 2\After\Sample.3.PubSub\Server2\bin\Debug\Server2.pdb
+C:\VSTFS\Module 2\After\Sample.3.PubSub\Server2\bin\Debug\RabbitMQ.Client.dll
+C:\VSTFS\Module 2\After\Sample.3.PubSub\Server2\bin\Debug\RabbitMQ.Client.xml
+C:\VSTFS\Module 2\After\Sample.3.PubSub\Server2\obj\Debug\Server2.exe
+C:\VSTFS\Module 2\After\Sample.3.PubSub\Server2\obj\Debug\Server2.pdb
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\bin\Debug\Server2.exe.config
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\bin\Debug\Server2.exe
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\bin\Debug\Server2.pdb
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\bin\Debug\RabbitMQ.Client.dll
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\bin\Debug\RabbitMQ.Client.xml
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\obj\Debug\Server2.csprojResolveAssemblyReference.cache
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\obj\Debug\Server2.exe
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\obj\Debug\Server2.pdb
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\bin\Debug\RabbitMqClient.dll
+C:\Users\wbchen\Documents\Code\Sample.3.PubSub\Server2\bin\Debug\RabbitMqClient.pdb
